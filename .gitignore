@@ -1,0 +1,11 @@
+# Eclipse metadata
+.classpath
+.project
+.settings/
+.bin/
+
+# Maven build output
+target/
+
+# Log files
+*.log
