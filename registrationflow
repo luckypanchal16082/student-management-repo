@@ -1,0 +1,19 @@
+ 
+step 1 : create model in package(com.lucky.model) in location -> src/main/java 
+ 
+ step 2: create mysql database in your datadase for saving registration details.
+ 
+ create table users(
+    ->      id int primary key auto_increment,
+    ->      name varchar(100) not null,
+    ->      email varchar(150) not null unique,
+    ->     password varchar(255) not null
+    -> );
+    
+    
+step 3 : create three  view files  in webapp folder 
+   1. register.jsp
+   2. success.jsp
+   3. error.jsp
+   
+   
