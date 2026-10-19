@@ -17,3 +17,10 @@ step 3 : create three  view files  in webapp folder
    3. error.jsp
    
    
+   step 4. create db-Connection in util package 
+   
+   step 5. create servelet in controller package 
+   
+   step 6 . create more pages 
+   1.login
+   2.welcome
